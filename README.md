@@ -7,7 +7,7 @@ Este é o repositório do **Projeto GTA**, um projeto de landing page criado com
 
 ## Descrição
 
-O projeto visa replicar uma landing page com design moderno, focado em uma interface limpa e responsiva. É perfeito para quem busca uma base sólida para estudos ou aprimoramento de habilidades em **HTML**, **CSS** e **JavaScript**.
+O projeto visa replicar uma landing page com design moderno, focado em uma interface limpa. É perfeito para quem busca uma base sólida para estudos ou aprimoramento de habilidades em **HTML**, **CSS** e **JavaScript**.
 
 ## Instalação
 
@@ -46,7 +46,6 @@ O projeto será automaticamente iniciado e acessível em `http://localhost:3000`
 
 ## Funcionalidades
 
-- Layout totalmente responsivo
 - Utilização de Flexbox para estruturação
 - Estilização em CSS moderna com variáveis
 - Pronto para deploy em plataformas como Netlify ou Vercel
