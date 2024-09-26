@@ -1,4 +1,3 @@
-```markdown
 # Huddle Base Landing Page
 
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen)](https://github.com/alexandre-federice/projeto-huddle-base) 
